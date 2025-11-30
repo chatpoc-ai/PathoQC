@@ -1,0 +1,5 @@
+{
+  "name": "PathoQC",
+  "description": "A comprehensive pathology laboratory management system featuring sample tracking, quality control visualization (Levey-Jennings), and AI-assisted SOP documentation.",
+  "requestFramePermissions": []
+}
